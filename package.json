@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/como-aumentar-la",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a como-aumentar-la",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/como-aumentar-la.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/aumentar-concentracion-estudiar/"
+    },
+    "homepage": "https://bitcu.co/aumentar-concentracion-estudiar/"
+}
